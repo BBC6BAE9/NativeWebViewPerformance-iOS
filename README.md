@@ -1,3 +1,4 @@
+![](https://images.xiaozhuanlan.com/photo/2021/044c9cff7d3bbcfe88439e8acc35f825.png)
 ## 背景：
 
 H5在如今的App内占得比重越来越多，2020、2021年微视春节活动中，微视客户端有大量的H5页面，性能测试主要关注三个指标
